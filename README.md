@@ -1,2 +1,29 @@
-# ESP32-OpenChat
-ESP32 captive portal local chat system using WiFi AP, DNS redirect and embedded web UI.
+# ESP32 Open Chat
+
+Local offline chat system hosted directly on ESP32 using a captive portal.
+
+## Features
+
+- ESP32 Access Point
+- Captive Portal
+- Embedded Web Chat
+- Mobile Friendly UI
+- DNS Redirect
+- PlatformIO Structure
+- Offline Communication
+
+## Usage
+
+1. Flash ESP32
+2. Connect to:
+   Free Open Chat WIFI
+3. Open:
+   http://192.168.4.1
+
+## Tech
+
+- ESP32
+- Arduino Framework
+- PlatformIO
+- WebServer
+- DNSServer
