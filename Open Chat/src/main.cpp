@@ -2,8 +2,9 @@
 #include <WiFi.h>
 #include <WebServer.h>
 #include <DNSServer.h>
-
 #include "ChatSystem.h"
+
+// Creates the ESP32 WiFi network, starts the captive portal system, and runs the local offline chat server for connected users.
 
 const char* wifiName = "Free Open Chat WIFI";
 

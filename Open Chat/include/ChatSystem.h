@@ -3,6 +3,8 @@
 #include <Arduino.h>
 #include <WebServer.h>
 
+// Defines the backend chat system responsible for routing, message handling, and client communication.
+
 class ChatSystem
 {
 public:

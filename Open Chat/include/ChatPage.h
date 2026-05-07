@@ -1,5 +1,7 @@
 #pragma once
 
+// Contains the HTML, CSS, and JavaScript used for the ESP32 Open Chat web interface.
+
 const char ChatPage[] PROGMEM = R"rawliteral(
 <!DOCTYPE html>
 <html>

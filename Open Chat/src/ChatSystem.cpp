@@ -1,6 +1,8 @@
 #include "ChatSystem.h"
 #include "ChatPage.h"
 
+// Handles the captive portal routes, chat messages, and communication between users connected to the ESP32.
+
 ChatSystem::ChatSystem(WebServer& server) : server(server)
 {
 }
