@@ -2,16 +2,6 @@
 
 Local offline chat system hosted directly on ESP32 using a captive portal.
 
-## Features
-
-- ESP32 Access Point
-- Captive Portal
-- Embedded Web Chat
-- Mobile Friendly UI
-- DNS Redirect
-- PlatformIO Structure
-- Offline Communication
-
 ## Usage
 
 1. Flash ESP32
@@ -27,3 +17,12 @@ Local offline chat system hosted directly on ESP32 using a captive portal.
 - PlatformIO
 - WebServer
 - DNSServer
+
+## Features
+
+- ESP32 Access Point
+- Captive Portal
+- Embedded Web Chat
+- Mobile Friendly UI
+- DNS Redirect
+- Offline Communication
